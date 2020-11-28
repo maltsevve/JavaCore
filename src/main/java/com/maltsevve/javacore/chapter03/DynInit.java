@@ -1,0 +1,11 @@
+package main.java.com.maltsevve.javacore.chapter03;
+
+public class DynInit {
+    public static void main(String[] args) {
+        double a = 3.0, b = 4.0;
+
+        //динамическая инициализация переменной:
+        double c = Math.sqrt(a * a + b * b);
+        System.out.println("Гиппотенуза равна " + c);
+    }
+}
