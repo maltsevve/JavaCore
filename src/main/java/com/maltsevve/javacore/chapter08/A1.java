@@ -1,6 +1,6 @@
 package main.java.com.maltsevve.javacore.chapter08;
 
-public class A1 {
+class A1 {
     int i;
     private int j;
 

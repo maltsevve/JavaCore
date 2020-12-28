@@ -1,6 +1,6 @@
 package main.java.com.maltsevve.javacore.chapter08;
 
-public class Access {
+class Access {
     public static void main(String[] args) {
         B1 supOb = new B1();
 

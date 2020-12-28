@@ -1,6 +1,6 @@
 package main.java.com.maltsevve.javacore.chapter08;
 
-public class B2 extends A2 {
+class B2 extends A2 {
     int i;
 
     B2(int a, int b) {

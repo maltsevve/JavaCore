@@ -1,6 +1,6 @@
 package main.java.com.maltsevve.javacore.chapter08;
 
-public class A {
+class A {
     int i, j;
 
     void showij() {
